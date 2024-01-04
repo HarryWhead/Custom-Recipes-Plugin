@@ -1,0 +1,12 @@
+name: CustomRecipes
+version: '${project.version}'
+main: customrecipes.customrecipes.CustomRecipes
+api-version: 1.19
+authors: [ BarryYanno ]
+description: Create or alter crafting recipes in minecraft
+commands:
+  CustomRecipe:
+    description: create custom crafting recipes
+    usage: /CustomRecipe <add:remove:list:show>
+  recipes:
+    usage: /recipes

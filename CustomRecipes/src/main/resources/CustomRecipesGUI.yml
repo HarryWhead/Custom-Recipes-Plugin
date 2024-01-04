@@ -1,0 +1,24 @@
+world:
+  guiTitle: '              &lRECIPES'
+  guiSize: 36
+  emptySlots: WHITE_STAINED_GLASS_PANE
+
+  items:
+    1:
+    7:
+
+mushroom1:
+  guiTitle: '              &lRECIPES'
+  guiSize: 36
+  emptySlots: WHITE_STAINED_GLASS_PANE
+
+  items:
+    1:
+    7:
+
+#Example:
+#items:
+#  1: aquatic staff
+#  5: Iron Mace
+
+#The numbers are container slot numbers, so 1 is top left of the chest
